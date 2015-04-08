@@ -1,7 +1,7 @@
 # hack roosevelt island
 Hack Roosevelt Island Day is the first annual volunteering day for our community partners on Roosevelt Island, hosted by Cornell Tech students.
 
-#CTHacksRI
+'#CTHacksRI
 
 SCHEDULE:
 
