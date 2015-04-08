@@ -5,10 +5,10 @@ Hack Roosevelt Island Day is the first annual volunteering day for our community
 
 SCHEDULE:
 
-Friday April 10, 2015 @ Cornell Tech Touchdown *healthy snacks provided
-12:30-1:30pm Cornell Tech campus and architecture overview by Andrew Winters 
-1:30-2:00pm Community partnerships by Diane Levitt and Jane Swanson 
-2:00-3:00pm Hackathon preparation and training (Codesters, Python) by Gordon Smith
+Friday April 10, 2015 @ Cornell Tech Touchdown *healthy snacks provided  
+12:30-1:30pm Cornell Tech campus and architecture overview by Andrew Winters  
+1:30-2:00pm Community partnerships by Diane Levitt and Jane Swanson  
+2:00-3:00pm Hackathon preparation and training (Codesters, Python) by Gordon Smith  
 3:00-3:30pm Logistics and wrap-up by Diane Levitt, Jane Swanson, and Miwa Takaki
 
 Friday April 17, 2015 @ Roosevelt Island *lunch & healthy snacks provided
