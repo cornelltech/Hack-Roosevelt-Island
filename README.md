@@ -11,13 +11,13 @@ Friday April 10, 2015 @ Cornell Tech Touchdown *healthy snacks provided
 2:00-3:00pm Hackathon preparation and training (Codesters, Python) by Gordon Smith  
 3:00-3:30pm Logistics and wrap-up by Diane Levitt, Jane Swanson, and Miwa Takaki
 
-Friday April 17, 2015 @ Roosevelt Island *lunch & healthy snacks provided
-11:30-12:30pm Students pick up lunch + t-shirts and travel to RI
-12:30-1:00pm Cornell Tech students arrive + setup
-1:00-4:00pm Hackathon at PS/IS 217
-4:00-4:15pm Walk from PS/IS 217 to Senior Center
-4:15-5:30p Tech training at Roosevelt Island Senior Center
-5:30-6:00p Optional campus tour by Jonathan Libutti
+Friday April 17, 2015 @ Roosevelt Island *lunch & healthy snacks provided  
+11:30-12:30pm Students pick up lunch + t-shirts and travel to RI  
+12:30-1:00pm Cornell Tech students arrive + setup  
+1:00-4:00pm Hackathon at PS/IS 217  
+4:00-4:15pm Walk from PS/IS 217 to Senior Center  
+4:15-5:30p Tech training at Roosevelt Island Senior Center  
+5:30-6:00p Optional campus tour by Jonathan Libutti  
 6:00p Free first round of drinks at Riverwalk Grill
 
 WHY YOU SHOULD ATTEND:
@@ -30,10 +30,10 @@ WHY YOU SHOULD ATTEND:
 
 LOGISTICS AND CONTACT:
 
-Miwa Takaki mt733@cornell.edu 206-550-8609
-Diane Levitt diane.levitt@cornell.edu 310-721-9692
-Jane Swanson jane.swanson@cornell.edu 646-220-1505
+Miwa Takaki mt733@cornell.edu 206-550-8609  
+Diane Levitt diane.levitt@cornell.edu 310-721-9692  
+Jane Swanson jane.swanson@cornell.edu 646-220-1505  
 Tuyen Dang tdd27@cornell.edu 224-829-9602
 
-PS/IS 217 Address: 645 Main Street, Roosevelt Island
+PS/IS 217 Address: 645 Main Street, Roosevelt Island  
 Senior Center Address: 546 Main Street, Roosevelt Island
