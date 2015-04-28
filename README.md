@@ -1,6 +1,11 @@
 # Hack Roosevelt Island
 ##'#CTHacksRI
-Hack Roosevelt Island Day is the first annual volunteering day for our community partners on Roosevelt Island, hosted by Cornell Tech students.
+Hack Roosevelt Island Day is an annual volunteering day for our community partners on Roosevelt Island, hosted by Cornell Tech students. The event focuses on teaching coding and computer literacy to middle school students and senior citizens.
+
+Press articles from Hack RI 4/17/15:  
+http://www.mainstreetwire.com/archive/2015/3515/530-coding-for-change  
+http://www.news.cornell.edu/stories/2015/04/cornell-tech-hosts-computer-hack-day-kids-seniors  
+http://rooseveltislander.blogspot.com/2015/04/cornell-tech-grad-students-hack.html
 
 SCHEDULE:
 
@@ -18,14 +23,6 @@ Friday April 17, 2015 @ Roosevelt Island *lunch & healthy snacks provided
 4:15-5:30p Tech training at Roosevelt Island Senior Center  
 5:30-6:00p Optional campus tour by Jonathan Libutti  
 6:00p Free first round of drinks at Riverwalk Grill
-
-WHY YOU SHOULD ATTEND:
-
-•	You’re helping the community by volunteering your time to help others learn and get excited about technology  
-•	You get to see the new campus on Roosevelt Island  
-•	You get to be part of the inaugural event  
-•	It’s an awesome marketing opportunity for Cornell Tech (show off our students!)  
-•	You get a cool T-shirt 
 
 LOGISTICS AND CONTACT:
 
