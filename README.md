@@ -26,10 +26,5 @@ Friday April 17, 2015 @ Roosevelt Island *lunch & healthy snacks provided
 
 LOGISTICS AND CONTACT:
 
-Miwa Takaki mt733@cornell.edu 206-550-8609  
-Diane Levitt diane.levitt@cornell.edu 310-721-9692  
-Jane Swanson jane.swanson@cornell.edu 646-220-1505  
-Tuyen Dang tdd27@cornell.edu 224-829-9602
-
 PS/IS 217 Address: 645 Main Street, Roosevelt Island  
 Senior Center Address: 546 Main Street, Roosevelt Island
